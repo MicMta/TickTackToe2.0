@@ -1,0 +1,23 @@
+#Table
+tbl1a = ('  -------    -------    -------')
+tbl1b = ('|         ||         ||         |')
+tbl1c1 = ('|    1    |')
+tbl1c2 = ('|    2    |')
+tbl1c3 = ('|    3    |')
+tbl2c4 = ('|    4    |')
+tbl2c5 = ('|    5    |')
+tbl2c6 = ('|    6    |')
+tbl3c7 = ('|    7    |')
+tbl3c8 = ('|    8    |')
+tbl3c9 = ('|    9    |')
+tblxxx = ('|    X    |')
+tblooo = ('|    O    |')
+
+
+# Display game board
+# Ask for players names
+# "Coin-toss" which player goes first
+# Accept player Input
+# Switch Table spot for players input
+# Store players "choices"
+# Check "choices" against winning combinations
